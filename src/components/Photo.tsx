@@ -18,12 +18,12 @@ const Photo = () => {
           initial={{ opacity: 0 }}
           animate={{
             opacity: 1,
-            transition: { delay: 2.4, duration: 0.4, ease: "easeInOut" },
+            transition: { delay: 2, duration: 0.4, ease: "easeInOut" },
           }}
           className="w-[298px] h-[298px] xl:w-[400px] xl:h-[400px] absolute"
         >
           <Image
-            src="/assets/avata.jpg"
+            src="/assets/sageAva.jpg"
             priority
             quality={100}
             fill
@@ -43,7 +43,7 @@ const Photo = () => {
             y="3"
             width="410"
             height="410"
-            stroke="#858c95"
+            stroke="#26bc9d"
             strokeWidth="4"
             strokeLinecap="round"
             strokeLinejoin="round"
