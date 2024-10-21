@@ -15,8 +15,8 @@ const stats = [
     text: "Technologies mastered",
   },
   {
-    num: 500,
-    text: "Code commit",
+    num: 99,
+    text: "Technologies mastered",
   },
 ];
 const Stats = () => {
