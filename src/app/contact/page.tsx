@@ -81,7 +81,7 @@ const Contact = () => {
               />
               {/* btn  */}
               <Button className="max-w-40 " size="md">
-                Send massage
+                Send message!
               </Button>
             </form>
           </div>
