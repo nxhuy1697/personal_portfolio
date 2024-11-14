@@ -5,7 +5,6 @@ import { ReactNode } from "react";
 interface PageTransitionProps {
   children: ReactNode;
 }
-
 const PageTransition = ({ children }: PageTransitionProps) => {
   const pathname = usePathname();
   return (

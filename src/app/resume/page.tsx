@@ -148,7 +148,6 @@ import {
 } from "@/components/ui/tooltip";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { motion } from "framer-motion";
-import { link } from "fs";
 const Resume = () => {
   return (
     <motion.div
@@ -293,3 +292,7 @@ const Resume = () => {
 };
 
 export default Resume;
+
+<motion.div>
+  slcknxlkc
+</motion.div>
